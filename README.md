@@ -39,7 +39,7 @@
 
 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/вашеимя/Template-WebSite-LoginRegister.git
+git clone https://github.com/blacksibainu/Template-WebSite-LoginRegister.git
 Настройте параметры базы данных в config.php
 Импортируйте SQL-файл из папки database
 Настройте параметры SMTP для работы с email
